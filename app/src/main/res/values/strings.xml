@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flora</string>
+    <string name="etNombre">Nombre</string>
+    <string name="btAdd">añadir</string>
+</resources>
